@@ -155,7 +155,7 @@ I’m actively exploring how AI can improve the way teams operate, from reducing
 The best technical work is useful. I care about solutions that feel clean, solve the right problem, and can scale without becoming fragile or overcomplicated.
 > I’m not interested in adding AI for the sake of trend. I’m interested in building systems where AI meaningfully improves clarity, speed, and outcomes.
 
-## GitHub Analytics
+
 
 ---
 
