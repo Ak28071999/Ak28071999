@@ -2,23 +2,18 @@
 
 <div align="center">
 
-<!-- 🌌 Animated Dark Gradient Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:020617,30:0F172A,60:111827,100:020617&text=Ashish%20Kumar%20Pandey&fontSize=48&fontColor=22D3EE&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Intelligent%20Systems%20%7C%20Data-Driven%20Innovation&descAlignY=60&descAlign=50" />
+<!-- 🖤 Minimal Dark Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=220&color=0:0B0F19,100:111827&text=Ashish%20Kumar%20Pandey&fontSize=44&fontColor=E5E7EB&animation=fadeIn&fontAlignY=45&desc=AI%20Engineer%20%7C%20Intelligent%20Systems%20%7C%20Data%20%2B%20Automation&descAlignY=65&descAlign=50" />
 
 <br>
 
-<!-- 🚀 Typing Animation Line 1 -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=800&color=38BDF8&center=true&vCenter=true&width=900&lines=Building+AI-powered+solutions+for+real-world+impact;Designing+intelligent+systems+with+data+and+automation;Turning+analytics+into+scalable+products" />
-
-<br>
-
-<!-- ⚡ Typing Animation Line 2 -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2400&pause=700&color=22D3EE&center=true&vCenter=true&width=900&lines=Engineering+systems+that+think%2C+adapt%2C+and+scale;Focused+on+Modern+AI+%7C+Analytics+%7C+Decision+Engineering" />
+<!-- 💻 Subtle Typing Animation -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=900&color=94A3B8&center=true&vCenter=true&width=850&lines=Building+AI+systems+for+real-world+impact;Designing+scalable+data-driven+solutions;Focused+on+modern+AI%2C+analytics%2C+and+automation" />
 
 <br><br>
 
-<!-- 🌑 Divider -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,100:0F172A&height=2&section=footer"/>
+<!-- ⚫ Clean Divider -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,100:0B0F19&height=1"/>
 
 </div>
 
