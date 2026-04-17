@@ -2,10 +2,23 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=290&color=0:000000,25:020617,55:0B1120,80:0F172A,100:0F766E&text=Ashish%20Kumar%20Pandey&fontSize=46&fontColor=E2E8F0&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20Mindset%20%7C%20Intelligent%20Systems%20%7C%20Data-Driven%20Solutions&descAlignY=56&descAlign=50" alt="header" />
+<!-- 🌌 Animated Dark Gradient Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:020617,30:0F172A,60:111827,100:020617&text=Ashish%20Kumar%20Pandey&fontSize=48&fontColor=22D3EE&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Intelligent%20Systems%20%7C%20Data-Driven%20Innovation&descAlignY=60&descAlign=50" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2400&pause=700&color=22D3EE&center=true&vCenter=true&width=980&lines=Building+AI-powered+solutions+for+real-world+problems;Designing+intelligent+workflows+with+data+and+automation;Turning+analytics+into+products%2C+systems%2C+and+impact;Focused+on+scalable%2C+modern%2C+future-ready+engineering)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=2200&pause=650&color=22D3EE&center=true&vCenter=true&width=980&lines=Building+AI+solutions+that+solve+real+problems;Designing+systems+where+data+becomes+intelligence;Creating+automation+that+thinks%2C+adapts%2C+and+scales;Focused+on+modern+AI%2C+analytics%2C+and+decision+engineering)](https://git.io/typing-svg)
+<br>
+
+<!-- 🚀 Typing Animation Line 1 -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=800&color=38BDF8&center=true&vCenter=true&width=900&lines=Building+AI-powered+solutions+for+real-world+impact;Designing+intelligent+systems+with+data+and+automation;Turning+analytics+into+scalable+products" />
+
+<br>
+
+<!-- ⚡ Typing Animation Line 2 -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2400&pause=700&color=22D3EE&center=true&vCenter=true&width=900&lines=Engineering+systems+that+think%2C+adapt%2C+and+scale;Focused+on+Modern+AI+%7C+Analytics+%7C+Decision+Engineering" />
+
+<br><br>
+
+<!-- 🌑 Divider -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,100:0F172A&height=2&section=footer"/>
 
 </div>
 
