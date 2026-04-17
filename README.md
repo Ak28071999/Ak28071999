@@ -123,18 +123,6 @@ The strongest systems do not just visualize data. They guide action. I like buil
 ![OpenAI](https://img.shields.io/badge/OpenAI-020617?style=for-the-badge&logo=openai&logoColor=FFFFFF)
 ![Azure OpenAI](https://img.shields.io/badge/Azure%20OpenAI-020617?style=for-the-badge&logo=microsoftazure&logoColor=60A5FA)
 ![Vertex AI](https://img.shields.io/badge/Vertex%20AI-020617?style=for-the-badge&logo=googlecloud&logoColor=4ADE80)
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=FACC15)
-![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=93C5FD)
-![Pandas](https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=E2E8F0)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-000000?style=for-the-badge&logo=scikitlearn&logoColor=FB923C)
-![Power BI](https://img.shields.io/badge/Power%20BI-000000?style=for-the-badge&logo=powerbi&logoColor=FACC15)
-![Tableau](https://img.shields.io/badge/Tableau-000000?style=for-the-badge&logo=tableau&logoColor=F97316)
-![BigQuery](https://img.shields.io/badge/BigQuery-000000?style=for-the-badge&logo=googlebigquery&logoColor=60A5FA)
-![Snowflake](https://img.shields.io/badge/Snowflake-000000?style=for-the-badge&logo=snowflake&logoColor=67E8F9)
-![dbt](https://img.shields.io/badge/dbt-000000?style=for-the-badge&logo=dbt&logoColor=FB7185)
-![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=FFFFFF)
-![Azure OpenAI](https://img.shields.io/badge/Azure%20OpenAI-000000?style=for-the-badge&logo=microsoftazure&logoColor=60A5FA)
-![Vertex AI](https://img.shields.io/badge/Vertex%20AI-000000?style=for-the-badge&logo=googlecloud&logoColor=4ADE80)
 
 </div>
 
