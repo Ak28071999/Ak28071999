@@ -111,22 +111,46 @@ The strongest systems do not just visualize data. They guide action. I like buil
 
 <div align="center">
 
+## 🚀 Tech Stack
+
+### 🧑‍💻 Programming & Data
 ![Python](https://img.shields.io/badge/Python-020617?style=for-the-badge&logo=python&logoColor=FACC15)
 ![SQL](https://img.shields.io/badge/SQL-020617?style=for-the-badge&logo=postgresql&logoColor=93C5FD)
 ![Pandas](https://img.shields.io/badge/Pandas-020617?style=for-the-badge&logo=pandas&logoColor=E2E8F0)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-020617?style=for-the-badge&logo=scikitlearn&logoColor=FB923C)
+
+---
+
+### 🤖 Machine Learning
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-020617?style=for-the-badge&logo=scikitlearn&logoColor=FB923C)
+
+---
+
+### 📊 Data Visualization
 ![Power BI](https://img.shields.io/badge/Power%20BI-020617?style=for-the-badge&logo=powerbi&logoColor=FACC15)
 ![Tableau](https://img.shields.io/badge/Tableau-020617?style=for-the-badge&logo=tableau&logoColor=F97316)
+
+---
+
+### 🏗️ Data Engineering & Warehousing
 ![BigQuery](https://img.shields.io/badge/BigQuery-020617?style=for-the-badge&logo=googlebigquery&logoColor=60A5FA)
 ![Snowflake](https://img.shields.io/badge/Snowflake-020617?style=for-the-badge&logo=snowflake&logoColor=67E8F9)
 ![dbt](https://img.shields.io/badge/dbt-020617?style=for-the-badge&logo=dbt&logoColor=FB7185)
+
+---
+
+### 🧠 AI & LLM Platforms
 ![OpenAI](https://img.shields.io/badge/OpenAI-020617?style=for-the-badge&logo=openai&logoColor=FFFFFF)
 ![Azure OpenAI](https://img.shields.io/badge/Azure%20OpenAI-020617?style=for-the-badge&logo=microsoftazure&logoColor=60A5FA)
 ![Vertex AI](https://img.shields.io/badge/Vertex%20AI-020617?style=for-the-badge&logo=googlecloud&logoColor=4ADE80)
-![Claude Code](https://shields.io)
-![Vercel](https://shields.io)
-![Happenstance](https://shields.io)
-![Cursor](https://shields.io)
+
+---
+
+### ⚙️ Tools & Platforms
+![Vercel](https://img.shields.io/badge/Vercel-020617?style=for-the-badge&logo=vercel&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-020617?style=for-the-badge&logo=cursor&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-020617?style=for-the-badge&logo=anthropic&logoColor=white)
+
+---
 
 </div>
 
