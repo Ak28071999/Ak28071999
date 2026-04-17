@@ -2,7 +2,6 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:020617,25:0B1120,55:111827,100:0F766E&text=Ashish%20Kumar%20Pandey&fontSize=44&fontColor=E2E8F0&animation=fadeIn&fontAlignY=36&desc=AI%20Solutions%20Builder%20%7C%20Data%20Systems%20%7C%20Intelligent%20Automation&descAlignY=56&descAlign=50" alt="header" />
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=290&color=0:000000,25:020617,55:0B1120,80:0F172A,100:0F766E&text=Ashish%20Kumar%20Pandey&fontSize=46&fontColor=E2E8F0&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20Mindset%20%7C%20Intelligent%20Systems%20%7C%20Data-Driven%20Solutions&descAlignY=56&descAlign=50" alt="header" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2400&pause=700&color=22D3EE&center=true&vCenter=true&width=980&lines=Building+AI-powered+solutions+for+real-world+problems;Designing+intelligent+workflows+with+data+and+automation;Turning+analytics+into+products%2C+systems%2C+and+impact;Focused+on+scalable%2C+modern%2C+future-ready+engineering)](https://git.io/typing-svg)
@@ -12,7 +11,6 @@
 
 <div align="center">
 
-`AI` `Machine Learning` `Automation` `Analytics Engineering` `Data Products` `Decision Systems`
 ![AI](https://img.shields.io/badge/AI-020617?style=for-the-badge&logo=openai&logoColor=7DD3FC)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-020617?style=for-the-badge&logo=tensorflow&logoColor=FB923C)
 ![Automation](https://img.shields.io/badge/Automation-020617?style=for-the-badge&logo=apacheairflow&logoColor=22D3EE)
