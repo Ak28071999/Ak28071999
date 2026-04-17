@@ -107,7 +107,6 @@ I’m interested in how AI can upgrade everyday operations by reducing manual wo
 ### Decision Engineering
 The strongest systems do not just visualize data. They guide action. I like building tools that turn information into recommendations, prioritization, and smarter execution.
 
-## Tech Stack
 
 <div align="center">
 
