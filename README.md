@@ -123,6 +123,10 @@ The strongest systems do not just visualize data. They guide action. I like buil
 ![OpenAI](https://img.shields.io/badge/OpenAI-020617?style=for-the-badge&logo=openai&logoColor=FFFFFF)
 ![Azure OpenAI](https://img.shields.io/badge/Azure%20OpenAI-020617?style=for-the-badge&logo=microsoftazure&logoColor=60A5FA)
 ![Vertex AI](https://img.shields.io/badge/Vertex%20AI-020617?style=for-the-badge&logo=googlecloud&logoColor=4ADE80)
+![Claude Code](https://shields.io)
+![Vercel](https://shields.io)
+![Happenstance](https://shields.io)
+![Cursor](https://shields.io)
 
 </div>
 
